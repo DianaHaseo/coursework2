@@ -92,3 +92,4 @@ def print_aeroplanes(
         print(
             f"{number}. {aeroplane}"
         )
+

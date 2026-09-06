@@ -299,3 +299,4 @@ def test_str(aeroplane):
     assert "United States" in result
     assert "250.00" in result
     assert "10000.00" in result
+

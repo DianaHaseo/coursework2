@@ -2,13 +2,13 @@
 
 ## Описание:
 
-Курсовая работа - Приложение для анализа банковских операций
+Курсовая работа - Трекер самолетов
 
 ## Установка:
 
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/DianaHaseo/Coursework
+git clone https://github.com/DianaHaseo/Coursework2
 ```
 2. Установите зависимости:
 ```

@@ -151,3 +151,4 @@ def test_get_top_wrong_type(aeroplanes):
             aeroplanes,
             "5",
         )
+

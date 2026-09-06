@@ -315,3 +315,4 @@ class Aeroplane:
             f"Скорость: {self.velocity:.2f} м/с | "
             f"Высота: {self.altitude:.2f} м"
         )
+
