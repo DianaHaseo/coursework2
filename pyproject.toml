@@ -1,0 +1,28 @@
+[project]
+name = "coursework2"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Diana Kozlova",email = "dianahaseo@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests (>=2.34.2,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.lint.dependencies]
+flake8 = "^7.3.0"
+mypy = "^2.3.1"
+black = "^26.5.1"
+isort = "^9.0.1"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^9.1.1"
+
