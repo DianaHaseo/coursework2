@@ -22,7 +22,6 @@ def test_empty_country():
     with pytest.raises(ValueError):
         api.get_country_bounding_box("")
 
-
 def test_whitespace_country():
     api = AeroplanesAPI()
 
