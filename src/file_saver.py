@@ -235,3 +235,4 @@ class JSONSaver(BaseSaver):
         self._write_data(new_data)
 
         return True
+

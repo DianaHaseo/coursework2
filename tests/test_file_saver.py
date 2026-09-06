@@ -225,3 +225,4 @@ def test_json_is_valid(
 
     assert isinstance(data, list)
     assert data[0]["icao24"] == "abcdef"
+

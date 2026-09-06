@@ -277,3 +277,4 @@ def test_get_aeroplanes_invalid_states(mock_get):
         api.get_aeroplanes(
             "Germany"
         )
+
